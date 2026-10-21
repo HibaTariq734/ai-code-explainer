@@ -1,6 +1,12 @@
 # Code Explainer
 
 A responsive AI Code Explainer built with Django REST, React, Vite, Tailwind, and Groq streaming. Paste code, choose a learning level, and understand it in simple English.
+**Live demo:** https://code-explainer-app-bice.vercel.app
+
+## Screenshots
+
+![Home](home1.png)
+![Explanation](chat1.png)
 
 ## Features
 
